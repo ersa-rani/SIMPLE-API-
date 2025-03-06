@@ -11,7 +11,7 @@ Both endpoints require an API key for authentication 🔑, and they provide diff
 
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/ersa-rani/SIMPLE-API->
+    git clone <https://github.com/ersa-rani/SIMPLE-APIs->
     ```
 
 2. Install the required dependencies using `pip`:
